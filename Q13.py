@@ -5,5 +5,3 @@ char = re.findall(r'[a-zA-Z]', sentence)
 
 print('LETTERS {}'.format(len(char)))
 print('DIGITs {}'.format(len(num)))
-
-asdfasdfasdfsadf
